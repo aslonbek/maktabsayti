@@ -1,0 +1,1 @@
+echo "# Mening yangi loyiham";
